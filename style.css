@@ -1,0 +1,16 @@
+
+body {
+    background-color: blue;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    font-size: 2em;
+    text-align: center;
+}
+
+p {
+    font-size: 1.2em;
+    line-height: 1.6;
+}

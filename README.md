@@ -1,0 +1,2 @@
+# GoL
+class work
